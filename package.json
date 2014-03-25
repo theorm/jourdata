@@ -1,0 +1,31 @@
+{
+  "name": "jourdata",
+  "preferGlobal": true,
+  "version": "0.0.1",
+  "author": "Roman Kalyakin <roman@kalyakin.com>",
+  "description": "Node.js clients for New York Times API and more",
+  "contributors": [],
+  "scripts": {},
+  "main": "./index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theorm/jourdata.git"
+  },
+  "keywords": [
+    "client",
+    "rest",
+    "journalism",
+    "data"
+  ],
+  "dependencies": {
+    "request": "~2.34.0",
+    "lodash": "~2.4.1"
+  },
+  "analyze": false,
+  "devDependencies": {},
+  "bundledDependencies": [],
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
